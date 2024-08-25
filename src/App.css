@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.error {
+  color: red;
+}
+
+textarea {
+  margin-bottom: 10px;
+}
